@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ayush
 - 👀 I’m interested in Web Designing and programming
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Devops
+- 🏢 Open to work now
 - 📫 Reach me through my email: chandoriyaayush@gmail.com
 
 <!---
